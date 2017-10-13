@@ -16,7 +16,7 @@
     }
     else {
     ?>
-    Nous n'avons pas trouvé d'article répondant à votre recherche
+    pas d'article
     <?php
     }
     ?>
