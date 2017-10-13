@@ -11,6 +11,10 @@
 <body <?php body_class(); ?>>
 
   <header>
-    <nav>
-    </nav>
+  <div class="container">
+    <div class="col-sm-12">
+      <h1><?= bloginfo('title') ?></h1>
+      <h2><?= bloginfo('description') ?></h2>
+    </div>
+  </div> 
   </header>
